@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/beaprofessor" target="blank"><img src="https://img.shields.io/twitter/follow/beaprofessor?logo=twitter&style=for-the-badge" alt="beaprofessor" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development.**
+- 🌱 I’m currently learning about **Full Stack Development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
